@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\namta\\Desktop\\VeriCekme\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\namta\\.android\\build-cache\\d7bce6d8068a8ced044b04456bb0107177db0b2f\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\namta\\Desktop\\VeriCekme\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\namta\\.android\\build-cache\\d7bce6d8068a8ced044b04456bb0107177db0b2f\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\namta\\Desktop\\VeriCekme\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\namta\\.android\\build-cache\\d7bce6d8068a8ced044b04456bb0107177db0b2f\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\namta\\Desktop\\VeriCekme\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\namta\\.android\\build-cache\\d7bce6d8068a8ced044b04456bb0107177db0b2f\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

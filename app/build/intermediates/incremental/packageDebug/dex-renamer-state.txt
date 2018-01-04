@@ -1,0 +1,7 @@
+#Fri Aug 25 12:18:10 EEST 2017
+base.0=C\:\\Users\\namta\\Desktop\\VeriCekme\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f57e52617a99ec1d0899fb57622924ba3f896d21
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\namta\\Desktop\\VeriCekme\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_28f47d08c097ebdadc98307b2884d46a0781be30\\classes.dex
+base.1=C\:\\Users\\namta\\Desktop\\VeriCekme\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_28f47d08c097ebdadc98307b2884d46a0781be30
+file.0=C\:\\Users\\namta\\Desktop\\VeriCekme\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f57e52617a99ec1d0899fb57622924ba3f896d21\\classes.dex
